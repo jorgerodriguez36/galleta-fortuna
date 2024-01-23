@@ -1,7 +1,7 @@
 
 import './App.css';
 import phrases from './util/phrases.json';
-import randomIndex from './services/randomindex';
+import randomIndex from './services/randomIndex';
 import RandomPhrase from './components/RandomPhrase';
 import { useState } from 'react';
 import ButtonPhrase from './components/ButtonPhrase';

@@ -1,6 +1,6 @@
 import React from 'react';
 import phrases from '../util/phrases.json';
-import randomIndex from '../services/randomindex';
+import randomIndex from '../services/randomIndex';
 import bgArray from '../util/baArray.json'
 
 const ButtonPhrase = ({setQuote, setBgApp}) => {
